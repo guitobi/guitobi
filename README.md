@@ -1,38 +1,15 @@
-<h1 align="center">Hi 👋, I'm Oleksandr</h1>
-<h3 align="center">Fullstack Developer. Focused on practical web solutions, API integrations, and frontend performance.</h3>
+# Hi 👋, I'm Oleksandr 
 
-<h3>Connect with me</h3>
-<p>
-  <a href="https://www.linkedin.com/in/oleksandr-stratilatov/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://t.me/g0ddamn1t" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-</p>
+### Fullstack Developer. Focused on practical web solutions, API integrations, and frontend performance.
 
-<h3>Frontend</h3>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="js" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="ts" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="react" />&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40" alt="nextjs" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="html5" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="css3" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="tailwind" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" height="40" alt="redux" />&nbsp;
-  <img src="https://www.chartjs.org/media/logo-title.svg" width="40" height="40" alt="chart" />
-</p>
+### Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oleksandr-stratilatov/) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/g0ddamn1t)
 
-<h3>Backend & DB</h3>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="node" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="express" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40" alt="postgres" />
-</p>
+### Frontend
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![ts](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![react](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![nextjs](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white) ![html5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![css3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 
-<h3>DevOps & Tools</h3>
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="aws" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="docker" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="linux" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40" alt="nginx" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="git" />&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40" alt="bash" />
-</p>
+### Backend & DB
+![node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![postgres](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+### DevOps & Tools
+![aws](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) ![git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
